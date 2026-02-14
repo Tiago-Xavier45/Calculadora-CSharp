@@ -70,4 +70,4 @@ Novas versões poderão incluir melhorias como:
 ## 📌 Autor
 
 Tiago Xavier  
-Estudante de Ciência da Computação
+
